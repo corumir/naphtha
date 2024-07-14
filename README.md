@@ -52,6 +52,8 @@ Shodan Dork: product:"Salesforce"
 
 Shodan Dork: product:"Barracuda 300 spam filter"
 
+Shodan Dork: (Sinkholes) http.html_hash:809425345
+
 # Dashboards & Management Consoles
 
 Shodan Dork: (RedMine) "phusion passenger" http.title:redmine
