@@ -46,10 +46,12 @@ Shodan Dork: (ATM Machines) NCR Port:"161"
 
 Shodan Dork: (62078/tcp open iphone-sync) port:"62078"
 
+#Dashboards & Management Consoles
+
 Shodan Dork: (RedMine) "phusion passenger" http.title:redmine
 
 Shodan Dork: (Jenkins Dashboards) cli 200 jenkins
 
-
+Shodan Dork: (Kace Systems Management Appliance) port:32764 http.favicon.hash:-1465479343
 
 
