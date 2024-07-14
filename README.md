@@ -12,3 +12,5 @@ Shodan Dork: http.title:"Mercurial repositories index"
 
 Shodan Dork: http.title:"codebeamer"
 
+Shodan Dork: (Github) http.favicon.hash:1068512256
+
