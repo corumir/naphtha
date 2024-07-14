@@ -50,6 +50,8 @@ Shodan Dork: product:"NOD32 AntiVirus"
 
 Shodan Dork: product:"Salesforce"
 
+Shodan Dork: product:"Barracuda 300 spam filter"
+
 # Dashboards & Management Consoles
 
 Shodan Dork: (RedMine) "phusion passenger" http.title:redmine
@@ -60,3 +62,4 @@ Shodan Dork: (Kace Systems Management Appliance) port:32764 http.favicon.hash:-1
 
 Shodan Dork: (Portainer) product:"Portainer"
 
+Shodan Dork: product:"Ubiquiti AirRouter"
