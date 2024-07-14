@@ -58,4 +58,5 @@ Shodan Dork: (Jenkins Dashboards) cli 200 jenkins
 
 Shodan Dork: (Kace Systems Management Appliance) port:32764 http.favicon.hash:-1465479343
 
+Shodan Dork: (Portainer) product:"Portainer"
 
