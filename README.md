@@ -7,3 +7,7 @@ Shodan Dork: http.component:"Gitea"
 Shodan Dork: http.component:"bitbucket"
 
 Shodan Dork: "subversion repository"
+
+Shodan Dork: http.title:"Mercurial repositories index"
+
+
