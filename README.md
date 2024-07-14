@@ -36,6 +36,8 @@ Shodan Dork: (Scada) "cimplicity"
 
 Shodan Dork: (ATM Machines) NCR Port:"161"
 
+Shodan Dork: (62078/tcp open iphone-sync) port:"62078"
+
 
 
 
