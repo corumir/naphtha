@@ -24,6 +24,8 @@ Shodan Dork: (Gitbucket) http.favicon.hash:932331299,252291239
 
 Shodan Dork: (Gitbucket) http.html:"gitbucket" !http.favicon.hash:932331299,252291239
 
+Shodan Dork: "/.git/"
+
 # Others
 
 Shodan Dork: (PassBolt) http.favicon.hash:1933971431
