@@ -10,4 +10,5 @@ Shodan Dork: "subversion repository"
 
 Shodan Dork: http.title:"Mercurial repositories index"
 
+Shodan Dork: http.title:"codebeamer"
 
