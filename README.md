@@ -20,11 +20,20 @@ Shodan Dork: http.html:"Git-SourceTree"
 
 Shodan Dork: (assembla) http.favicon.hash:242064360
 
+Shodan Dork: (Gitbucket) http.favicon.hash:932331299,252291239 
+
+Shodan Dork: (Gitbucket) http.html:"gitbucket" !http.favicon.hash:932331299,252291239
+
 # Others
 
 Shodan Dork: (PassBolt) http.favicon.hash:1933971431
 
 Shodan Dork: (Paste Server) product:"PasteWSGIServer"
+
+Shodan Dork: (Scada) "cimplicity"
+
+Shodan Dork: (ATM Machines) NCR Port:"161"
+
 
 
 
