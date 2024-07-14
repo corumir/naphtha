@@ -28,6 +28,12 @@ Shodan Dork: (Gitbucket) http.html:"gitbucket" !http.favicon.hash:932331299,2522
 
 Shodan Dork: "/.git/"
 
+# Finding APIs
+
+Shodan Dork: (Swagger) http.favicon.hash:-1128940573
+
+Shodan Dork (Swagger) "SwaggerUI" !http.favicon.hash:-1128940573
+
 # Others
 
 Shodan Dork: (PassBolt) http.favicon.hash:1933971431
