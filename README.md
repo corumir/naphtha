@@ -19,3 +19,12 @@ Shodan Dork: http.component:"Gogs"
 Shodan Dork: http.html:"Git-SourceTree"
 
 Shodan Dork: (assembla) http.favicon.hash:242064360
+
+# Others
+
+Shodan Dork: (PassBolt) http.favicon.hash:1933971431
+
+Shodan Dork: (Paste Server) product:"PasteWSGIServer"
+
+
+
