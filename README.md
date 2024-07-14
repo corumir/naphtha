@@ -14,3 +14,8 @@ Shodan Dork: http.title:"codebeamer"
 
 Shodan Dork: (Github) http.favicon.hash:1068512256
 
+Shodan Dork: http.component:"Gogs"
+
+Shodan Dork: http.html:"Git-SourceTree"
+
+Shodan Dork: (assembla) http.favicon.hash:242064360
