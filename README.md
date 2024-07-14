@@ -6,7 +6,7 @@ Shodan Dork: http.component:"Gitea"
 
 Shodan Dork: http.component:"bitbucket"
 
-Shodan Dork: "subversion repository"
+Shodan Dork: product:"Subversion"
 
 Shodan Dork: http.title:"Mercurial repositories index"
 
@@ -45,6 +45,10 @@ Shodan Dork: (Scada) "cimplicity"
 Shodan Dork: (ATM Machines) NCR Port:"161"
 
 Shodan Dork: (62078/tcp open iphone-sync) port:"62078"
+
+Shodan Dork: product:"NOD32 AntiVirus"
+
+Shodan Dork: product:"Salesforce"
 
 # Dashboards & Management Consoles
 
