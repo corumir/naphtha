@@ -46,7 +46,7 @@ Shodan Dork: (ATM Machines) NCR Port:"161"
 
 Shodan Dork: (62078/tcp open iphone-sync) port:"62078"
 
-#Dashboards & Management Consoles
+# Dashboards & Management Consoles
 
 Shodan Dork: (RedMine) "phusion passenger" http.title:redmine
 
